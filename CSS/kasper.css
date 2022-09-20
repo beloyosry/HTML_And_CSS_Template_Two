@@ -109,7 +109,7 @@ header .form i:hover{
 /* Start Landing */
 .landing{
     min-height: 100vh;
-    background: url(../imgs/landing.jpg);
+    background: url(../imgs/landing.jpg) fixed;
     position: relative;
     background-size: cover;
 }
