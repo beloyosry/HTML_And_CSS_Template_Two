@@ -109,7 +109,7 @@ header .form i:hover{
 /* Start Landing */
 .landing{
     min-height: 100vh;
-    background: url(https://beloyosry.github.io/HTML_And_CSS_Template_Two/imgs/landing.jpg);
+    background: url(../imgs/landing.jpg);
     position: relative;
     background-size: cover;
 }
