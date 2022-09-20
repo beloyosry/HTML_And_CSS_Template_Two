@@ -417,6 +417,11 @@ header .form i:hover{
     color: white;
     text-align: center;
 }
+@media (max-width: 991px){
+    .video .text{
+        background-color: rgb(15 116 143 / 15%);
+    }
+}
 .video .text h2{
     margin: 0 0 30px;
     text-transform: uppercase;
